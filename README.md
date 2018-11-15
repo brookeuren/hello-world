@@ -18,4 +18,4 @@ And here's a ~~big~~ small image of GitHub's logo:
 ![GitHub Favicon](https://github.com/favicon.ico)
 
 Here's a relative link:
-[Relative Link to Original README](/README.md)
+[Relative Link to Original README](master/README.md)
