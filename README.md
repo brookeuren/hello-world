@@ -81,7 +81,7 @@ Here's a relative link:
 
 ---
 
-Here's some emojis:
+Here are some emojis:
 :purple_heart: :cloud: :cherry_blossom: :cat2:
 
 ---
