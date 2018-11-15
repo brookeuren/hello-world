@@ -82,7 +82,7 @@ Here's a relative link:
 
 ---
 
-Here's a mention: @github/brookeuren
+Here's a mention: @brookeuren
 
 ---
 
