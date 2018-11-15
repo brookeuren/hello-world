@@ -1,6 +1,5 @@
 # hello-world
 ## Assignment 04
----
 
 Hi!
 
@@ -19,21 +18,30 @@ Here's an ordered list:
    - Item 3.1
    - Item 3.2
      - Item 3.21
-    
+     
+---
+
 Here's a link:
 [GitHub](https://github.com/)
  
+---
 
-:point_down: Here's a blockquote:
+Here's a blockquote:
 
 >GitHub brings together the world's largest community of developers to discover, share, and build better software. 
+
+---
 
 And here's a ~~big~~ small image of GitHub's logo:
 
 ![GitHub Favicon](https://github.com/favicon.ico)
 
+---
+
 Here's an example of inline code:
 `<addr>`
+
+---
 
 Example of using `Syntax` Highlighting:
 ```
@@ -43,11 +51,15 @@ git commit
 
 ```
 
+---
+
 Here's a task list:
 
 - [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+---
 
 Here's a table:
 
@@ -56,8 +68,12 @@ First Column | Second Column | Third Column
 Cell 1 | Cell 2 | Cell 3
 Cell 4 | Cell 5 | Cell 6
 
+---
+
 Here's a relative link:
 [Relative Link to README](/README.md)
+
+---
 
 Here's a mention: @brookeuren
 
