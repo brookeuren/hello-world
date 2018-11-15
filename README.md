@@ -10,6 +10,14 @@ Though I do know a bit about...
 * And Javascript!
 
 ### Examples
+---
+Here are different headers:
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
+
+---
 
 Here's an ordered list:
 1. Item 1
