@@ -82,9 +82,7 @@ Here's a relative link:
 
 ---
 
-Here's a mention: @brookeuren
-
----
-
 Here's some emojis:
 :purple_heart: :cloud: :cherry_blossom: :cat2:
+
+
