@@ -1,5 +1,5 @@
 # hello-world
-## Assignment 04
+### Assignment 04
 
 Hi!
 
@@ -48,7 +48,6 @@ Example of using `Syntax` Highlighting:
 git status
 git add
 git commit
-
 ```
 
 ---
@@ -64,7 +63,7 @@ Here's a task list:
 Here's a table:
 
 First Column | Second Column | Third Column
-- | -
+---- | ----
 Cell 1 | Cell 2 | Cell 3
 Cell 4 | Cell 5 | Cell 6
 
