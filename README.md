@@ -63,7 +63,7 @@ Here's a task list:
 Here's a table:
 
 First Column | Second Column | Third Column
----- | ----
+------------ | ------------- | -------------
 Cell 1 | Cell 2 | Cell 3
 Cell 4 | Cell 5 | Cell 6
 
@@ -74,6 +74,9 @@ Here's a relative link:
 
 ---
 
-Here's a mention: @brookeuren
+Here's a mention: @github/brookeuren
 
+---
 
+Here's some emojis:
+:purple_heart: :cloud: :cherry_blossom: :cat2:
