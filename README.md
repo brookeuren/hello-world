@@ -1,5 +1,4 @@
 # hello-world
-### Assignment 04
 
 Hi!
 
