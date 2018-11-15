@@ -1,5 +1,5 @@
 # hello-world
-#Assignment 04
+## Assignment 04
 ---
 
 Hi!
@@ -9,6 +9,8 @@ Though I do know a bit about...
 * HTML
 * CSS
 * And Javascript!
+
+### Examples
 
 Here's an ordered list:
 1. Item 1
